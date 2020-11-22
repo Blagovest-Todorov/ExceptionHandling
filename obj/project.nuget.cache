@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FQu0vr7xChGtsDWBTIjmyXF/wgalD9inSetwx/ROCLZV4J5sJMV652jZ+PsOr0g2VhpP9J4FKs8IQRsssgU+qA==",
+  "dgSpecHash": "gjV+3GL9bcesBcPk7Oqw/ah2rvCMifrlsmsxla4Q3Sg35DzW7xrUod9yFg9BzbNhbW9ZCh/vjkmDbjItFILPTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\TextFiles\\01.exceptionsHandling\\01.exceptionsHandling.csproj",
+  "projectFilePath": "D:\\QA__\\GitProjects\\ExceptionHandling\\01.exceptionsHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

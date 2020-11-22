@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bla\\source\\repos\\TextFiles\\01.exceptionsHandling\\01.exceptionsHandling.csproj": {}
+    "D:\\QA__\\GitProjects\\ExceptionHandling\\01.exceptionsHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bla\\source\\repos\\TextFiles\\01.exceptionsHandling\\01.exceptionsHandling.csproj": {
+    "D:\\QA__\\GitProjects\\ExceptionHandling\\01.exceptionsHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\TextFiles\\01.exceptionsHandling\\01.exceptionsHandling.csproj",
+        "projectUniqueName": "D:\\QA__\\GitProjects\\ExceptionHandling\\01.exceptionsHandling.csproj",
         "projectName": "01.exceptionsHandling",
-        "projectPath": "C:\\Users\\Bla\\source\\repos\\TextFiles\\01.exceptionsHandling\\01.exceptionsHandling.csproj",
+        "projectPath": "D:\\QA__\\GitProjects\\ExceptionHandling\\01.exceptionsHandling.csproj",
         "packagesPath": "C:\\Users\\Bla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bla\\source\\repos\\TextFiles\\01.exceptionsHandling\\obj\\",
+        "outputPath": "D:\\QA__\\GitProjects\\ExceptionHandling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bla\\AppData\\Roaming\\NuGet\\NuGet.Config",
