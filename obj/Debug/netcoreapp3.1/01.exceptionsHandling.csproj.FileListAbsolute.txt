@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\bin\Debug\netcoreapp3.1\01.exceptionsHandling.exe
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\bin\Debug\netcoreapp3.1\01.exceptionsHandling.deps.json
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\bin\Debug\netcoreapp3.1\01.exceptionsHandling.runtimeconfig.json
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\bin\Debug\netcoreapp3.1\01.exceptionsHandling.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\bin\Debug\netcoreapp3.1\01.exceptionsHandling.dll
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\bin\Debug\netcoreapp3.1\01.exceptionsHandling.pdb
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\obj\Debug\netcoreapp3.1\01.exceptionsHandling.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\obj\Debug\netcoreapp3.1\01.exceptionsHandling.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\obj\Debug\netcoreapp3.1\01.exceptionsHandling.AssemblyInfo.cs
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\obj\Debug\netcoreapp3.1\01.exceptionsHandling.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\obj\Debug\netcoreapp3.1\01.exceptionsHandling.dll
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\obj\Debug\netcoreapp3.1\01.exceptionsHandling.pdb
+C:\Users\Bla\source\repos\TextFiles\01.exceptionsHandling\obj\Debug\netcoreapp3.1\01.exceptionsHandling.genruntimeconfig.cache
